@@ -1,0 +1,7 @@
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\bin\Debug\testOPENFK.exe.config
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\bin\Debug\testOPENFK.exe
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\bin\Debug\testOPENFK.pdb
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\obj\Debug\testOPENFK.csprojAssemblyReference.cache
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\obj\Debug\testOPENFK.csproj.CoreCompileInputs.cache
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\obj\Debug\testOPENFK.exe
+C:\Users\mateusz.klus\source\repos\testOPENFK\testOPENFK\obj\Debug\testOPENFK.pdb
